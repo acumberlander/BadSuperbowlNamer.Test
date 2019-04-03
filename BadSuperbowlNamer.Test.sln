@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BadSuperbowlNamer.Test", "BadSuperbowlNamer.Test\BadSuperbowlNamer.Test.csproj", "{F20546C2-512F-4633-B982-87B9DD7CF013}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F20546C2-512F-4633-B982-87B9DD7CF013}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F20546C2-512F-4633-B982-87B9DD7CF013}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F20546C2-512F-4633-B982-87B9DD7CF013}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F20546C2-512F-4633-B982-87B9DD7CF013}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF0828DD-1D06-4691-B577-6651DA8EEF05}
+	EndGlobalSection
+EndGlobal
